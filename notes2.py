@@ -13,4 +13,4 @@ def temp(x):
         print("nice")
     else: 
         print("too cold")
-x = int(input("what da temp"))
+x = int(input("what da temp? "))
