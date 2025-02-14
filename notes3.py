@@ -13,3 +13,4 @@ def canGamble(isRich, is21):
         print("you are too poor, get out")
     elif isRich ==  False or is21 == False:
         print("you can't play")
+        

@@ -1,4 +1,7 @@
 number = (input("enter a number: "))
+def add(x,y):
+    print(x + y)
+x = 1
+y += 1
 
-for i in :
-    print(number / )
+def factor(number / )
